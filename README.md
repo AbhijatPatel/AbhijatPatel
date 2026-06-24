@@ -1,4 +1,5 @@
-# 🦸‍♂️ Abhijat Patel
+<div align="center">
+  # 🦸‍♂️ Abhijat Patel
 
 ### Software Engineer | Backend & AI Developer
 
