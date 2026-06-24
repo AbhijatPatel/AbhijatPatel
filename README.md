@@ -1,5 +1,18 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🚀 Turning ideas into code
+
+Hi, I'm Abhijat Patel, a B.Tech IT student passionate about
+Web Development, Artificial Intelligence, and Problem Solving.
+
+🔹 Full Stack Developer (MERN)
+🔹 AI Enthusiast
+🔹 DSA Learner
+🔹 Open Source Explorer
+
+I love building projects that solve real-world problems and
+continuously improving my technical skills.
+
+"Learn, Build, Improve, Repeat."
 
 
 ## 🌐 Socials:
