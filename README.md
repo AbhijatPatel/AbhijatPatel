@@ -34,7 +34,8 @@ Building scalable backend systems, cloud-native applications, and AI-powered pro
 
 <div align="center">
 
-<img src="./Assets/
+<img src="
+
 " width="700"/>
 
 </div>
