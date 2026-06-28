@@ -34,7 +34,7 @@ class AbhijatPatel:
 
     def __init__(self):
         self.role = "Full Stack Developer & AI Engineer"
-        self.location = "India 🇮🇳"
+        self.location = "Noida, Uttar Pradesh, India"
         self.education = "B.Tech Information Technology"
         self.interests = [
             "Artificial Intelligence",
