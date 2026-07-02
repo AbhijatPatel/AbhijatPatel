@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="./Assets/pro.png" width="180" alt="Abhijat Patel"/>
+<img src="./Assets/![Uploading image.png…]()
+" width="180" alt="Abhijat Patel"/>
 
 # 👋 Hi, I'm Abhijat Patel
 
