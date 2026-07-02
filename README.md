@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./Assets/profile.png" width="180" alt="Abhijat Patel"/>
+<img src="./Assets/AbhijatPatel/pro.png" width="180" alt="Abhijat Patel"/>
 
 # 👋 Hi, I'm Abhijat Patel
 
