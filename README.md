@@ -7,15 +7,28 @@
 Building intelligent applications, scalable backend systems, and AI-powered solutions that create real-world impact.
 
 <p align="center">
+
 <a href="https://github.com/AbhijatPatel">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 <a href="https://linkedin.com/in/abhijatpatel01">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+<a href="https://instagram.com/theabhijatpatel">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
 <a href="mailto:abhijatpatelfaizabad@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
->
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
 </a>
 </p>
 
@@ -31,11 +44,27 @@ Building intelligent applications, scalable backend systems, and AI-powered solu
 class AbhijatPatel:
 
     def __init__(self):
-        self.role = "Full Stack Developer & AI Engineer"
+        self.role = "AI Engineer | Full Stack Developer"
         self.location = "Noida, Uttar Pradesh, India"
-        self.education = "B.Tech Information Technology"
+
+        self.education = {
+            "degree": "B.Tech in Information Technology",
+            "college": "JSS Academy of Technical Education, Noida",
+            "duration": "2023–2027"
+        }
+
+        self.certifications = [
+            "IBM SkillsBuild - Getting Started with Generative AI",
+            "IBM - Python for Data Science, AI & Development",
+            "TATA - GenAI Powered Data Analytics Job Simulation",
+            "Deloitte - Data Analytics Job Simulation",
+            "Codec Technologies - Artificial Intelligence",
+            "be10x - AI Tools & ChatGPT Workshop"
+        ]
+
         self.interests = [
-            "Artificial Intelligence",
+            "Generative AI",
+            "Large Language Models (LLMs)",
             "Backend Development",
             "Cloud Computing",
             "System Design",
@@ -44,48 +73,61 @@ class AbhijatPatel:
 
     def current_focus(self):
         return [
-            "Building AI-powered applications",
-            "Advanced FastAPI & Django",
-            "Cloud Architecture",
+            "Building AI-powered SaaS Applications",
+            "FastAPI & Django Development",
+            "React + Node.js Full Stack Development",
             "LLM Integrations",
-            "Agentic AI Systems"
+            "RAG Applications",
+            "Agentic AI Systems",
+            "Cloud Deployment"
         ]
 ```
-
 ### 💡 What I Do
 
-* 🔥 Build scalable backend systems using Python, Django & FastAPI
-* 🤖 Develop AI applications powered by LLMs and Prompt Engineering
-* ☁️ Deploy cloud-native solutions with AWS & Docker
-* 📊 Design efficient databases and APIs
-* 🚀 Create modern full-stack applications
-
+- 🤖 Build AI-powered applications using LLMs and Generative AI
+- ⚡ Develop scalable backend systems with FastAPI, Django & Node.js
+- 🌐 Build modern full-stack applications using React
+- 📊 Design secure REST APIs and database architectures
+- 🚀 Explore Agentic AI, RAG pipelines, and intelligent automation
 ---
 
-## ⚔️ Tech Arsenal
 
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs,express"/>
-</p>
-
-### Frontend
+### 🤖 AI & Machine Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,html,css,js,ts,tailwind"/>
-</p>
 
-### Cloud & DevOps
+<img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OpenAI_API-10A37F?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LangChain-00C853?style=for-the-badge"/>
+
+
+# ⚔️ Tech Stack
+
+### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,githubactions,nginx"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,javascript,html,css"/>
 </p>
+
+### 🌐 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap"/>
+</p>
+
+### ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</p>
+
 
 ### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
 </p>
 
 ### AI / ML
@@ -101,20 +143,12 @@ class AbhijatPatel:
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,intelliJ IDEA, Antigravity"/>
 </p>
 
 ---
 
 ## 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AbhijatPatel&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhijatPatel&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 <div align="center">
 
@@ -126,70 +160,33 @@ class AbhijatPatel:
 
 ## 🏆 Achievements
 
-* 🤖 Artificial Intelligence Intern
-* 📜 AICTE & ICAC Approved Internship
-* ⭐ Letter of Recommendation Recipient
-* 💻 200+ DSA Problems Solved
-* 🚀 Multiple Full Stack Projects Delivered
-* 🎓 AI & Data Science Certifications
-
+- 🎓 IBM SkillsBuild – Getting Started with Generative AI
+- 🤖 IBM – Python for Data Science, AI & Development
+- 📊 TATA – GenAI Powered Data Analytics Job Simulation
+- 💼 Deloitte – Data Analytics Job Simulation
+- 🧠 Codec Technologies – Artificial Intelligence Certification
+- 🚀 be10x – AI Tools & ChatGPT Workshop
+- 💻 Solved 200+ Data Structures & Algorithms problems
+- 🌟 Built multiple AI and Full Stack projects
 ---
 
-## 🎯 2026 Goals
 
-* Build production-ready AI SaaS products
-* Contribute more to Open Source
-* Master Cloud-Native Architecture
-* Develop Agentic AI Systems
-* Grow as a System Design Engineer
+# 🎯 2026 Goals
+
+- 🚀 Build production-ready AI SaaS products
+- 🤖 Master Agentic AI Systems
+- ☁️ Learn Cloud Architecture & DevOps
+- 📖 Contribute to Open Source
+- 🏆 Become an AI Backend Engineer
+- 💡 Build impactful AI products used by thousands
 
 ---
-
 <div align="center">
 
-### ⚡ "Turning ideas into intelligent digital experiences."
+### 💬 Quote
 
-<img src="https://komarev.com/ghpvc/?username=AbhijatPatel&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+> **"Turning ideas into intelligent digital experiences through AI and software engineering."**
 
-</div> change about me to ## 🚀 About Me
+<img src="https://komarev.com/ghpvc/?username=AbhijatPatel&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
-```python
-class AbhijatPatel:
-
-    def __init__(self):
-        self.role = "AI Engineer | Full Stack Developer"
-        self.location = "Noida, Uttar Pradesh, India"
-        self.education = {
-            "degree": "B.Tech in Information Technology",
-            "college": "JSS Academy of Technical Education, Noida",
-            "duration": "2023–2027"
-        }
-
-        self.certifications = [
-            "IBM SkillsBuild - Generative AI",
-            "IBM - Python for Data Science & AI",
-            "TATA - GenAI Powered Data Analytics",
-            "Deloitte - Data Analytics Job Simulation",
-            "Codec Technologies - Artificial Intelligence",
-            "be10x - AI Tools & ChatGPT Workshop"
-        ]
-
-        self.interests = [
-            "Generative AI",
-            "Large Language Models",
-            "Backend Development",
-            "Cloud Computing",
-            "System Design",
-            "Open Source"
-        ]
-
-    def current_focus(self):
-        return [
-            "Building AI-powered SaaS applications",
-            "FastAPI & Django",
-            "React + Node.js",
-            "RAG Applications",
-            "Agentic AI Systems",
-            "Cloud Deployment"
-        ]
-```
+</div>
