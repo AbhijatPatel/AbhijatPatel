@@ -165,6 +165,12 @@ class AbhijatPatel:
 
 <div align="center">
 
+<img src="https://ghchart.rshah.org/409ba5/AbhijatPatel" alt="GitHub Contribution Chart" />
+
+</div>
+
+<div align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhijatPatel&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
