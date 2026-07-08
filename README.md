@@ -149,16 +149,21 @@ class AbhijatPatel:
 </p>
 
 ---
-## 📊 GitHub Analytics
-
 <div align="center">
+
+<h2>📊 GitHub Analytics</h2>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=AbhijatPatel&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhijatPatel&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"/>
 
-</div>
+<br><br>
 
+<h2>🏆 GitHub Achievements</h2>
+
+<img src="https://github-profile-trophy.vercel.app/?username=AbhijatPatel&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1"/>
+
+</div>
 ---
 
 ## 📈 Contribution Graph
@@ -171,15 +176,7 @@ class AbhijatPatel:
 
 ---
 
-## 🏆 GitHub Achievements
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AbhijatPatel&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1"/>
-
-</div>
-
----
 
 ## ⚡ Profile Summary
 
