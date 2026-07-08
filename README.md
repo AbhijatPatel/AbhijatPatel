@@ -2,9 +2,9 @@
 
 <img src="https://github.com/AbhijatPatel.png" width="170" alt="Abhijat Patel"/>
 
-# 🦸‍♂️ Abhijat Patel
+#  𝔸𝔹ℍ𝕀𝕁𝔸𝕋 ℙ𝔸𝕋𝔼𝕃
 
-### Full Stack Developer • AI Engineer • Problem Solver
+### 🚀 𝓕𝓾𝓵𝓵 𝓢𝓽𝓪𝓬𝓴 𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻 • 𝓐𝓘 𝓔𝓷𝓰𝓲𝓷𝓮𝓮𝓻 • 𝓟𝓻𝓸𝓫𝓵𝓮𝓶 𝓢𝓸𝓵𝓿𝓮𝓻
 
 Building intelligent applications, scalable backend systems, and AI-powered solutions that create real-world impact.
 
@@ -26,8 +26,8 @@ Building intelligent applications, scalable backend systems, and AI-powered solu
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://lucent-travesseiro-2855d0.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/>
 </a>
 
 </p>
