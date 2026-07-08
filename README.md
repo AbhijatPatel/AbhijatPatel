@@ -165,7 +165,7 @@ class AbhijatPatel:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhijatPatel&theme=github-dark&hide_border=true"/>
+<img width="100%" src="https://ghchart.rshah.org/AbhijatPatel" alt="GitHub Contribution Calendar"/>
 
 </div>
 
