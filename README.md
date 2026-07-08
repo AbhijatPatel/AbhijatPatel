@@ -154,9 +154,34 @@ class AbhijatPatel:
 <div align="center">
   
 📈 GitHub Analytics
+## 📊 GitHub Analytics
 
-<div align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=AbhijatPatel&show_icons=true&theme=tokyonight&hide_border=true"/><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhijatPatel&layout=compact&theme=tokyonight&hide_border=true"/></div><div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhijatPatel&theme=tokyonight&hide_border=true"/></div>---
+<div align="center">
 
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhijatPatel&theme=tokyonight&hide_border=true"/> 
+
+</div> 
+
+
+
+## 📈 Contribution Graph
+
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhijatPatel&theme=github-dark&hide_border=true"/>
+
+</div>
+
+<br><br>
+
+<div align="center">
+
+<img width="100%" src="https://ghchart.rshah.org/AbhijatPatel" alt="GitHub Contribution Calendar"/>
+
+</div>
+
+---
 ## ⚡ Profile Summary
 
 <div align="center">
