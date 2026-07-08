@@ -152,20 +152,24 @@ class AbhijatPatel:
 <div align="center">
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AbhijatPatel&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhijatPatel&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"/>
-
-## 🏆 GitHub Achievements
+  
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AbhijatPatel&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=AbhijatPatel&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhijatPatel&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AbhijatPatel&theme=tokyo-night&hide_border=true&area=true"/>
+
+<br><br>
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbhijatPatel&theme=tokyonight"/>
 
 </div>
-
----
 </div> 
 
 ## 📈 Contribution Graph
@@ -177,8 +181,6 @@ class AbhijatPatel:
 </div>
 
 ---
-
-
 
 ## ⚡ Profile Summary
 
