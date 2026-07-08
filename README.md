@@ -4,7 +4,11 @@
 
 #  𝔸𝔹ℍ𝕀𝕁𝔸𝕋 ℙ𝔸𝕋𝔼𝕃
 
-### 🚀 𝓕𝓾𝓵𝓵 𝓢𝓽𝓪𝓬𝓴 𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻 • 𝓐𝓘 𝓔𝓷𝓰𝓲𝓷𝓮𝓮𝓻 • 𝓟𝓻𝓸𝓫𝓵𝓮𝓶 𝓢𝓸𝓵𝓿𝓮𝓻
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=🚀+Full+Stack+Developer;🤖+AI+Engineer;💡+Problem+Solver)](https://git.io/typing-svg)
+
+</div>
 
 Building intelligent applications, scalable backend systems, and AI-powered solutions that create real-world impact.
 
@@ -152,8 +156,8 @@ class AbhijatPatel:
 <div align="center">
 
 <div align="center">
+
   
-📈 GitHub Analytics
 ## 📊 GitHub Analytics
 
 <div align="center">
