@@ -149,15 +149,45 @@ class AbhijatPatel:
 </p>
 
 ---
-
-## 📈 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhijatPatel&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AbhijatPatel&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhijatPatel&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"/>
 
 </div>
 
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhijatPatel&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=AbhijatPatel&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1"/>
+
+</div>
+
+---
+
+## ⚡ Profile Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbhijatPatel&theme=tokyonight"/>
+
+</div>
 ---
 
 ## 🏆 Achievements
