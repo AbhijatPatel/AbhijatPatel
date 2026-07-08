@@ -161,6 +161,20 @@ class AbhijatPatel:
 
 </div> 
 
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AbhijatPatel&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhijatPatel&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhijatPatel&theme=tokyonight&hide_border=true"/>
+
+</div>
+
 ## 📈 Contribution Graph
 
 <div align="center">
