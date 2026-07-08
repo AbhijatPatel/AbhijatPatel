@@ -165,19 +165,7 @@ class AbhijatPatel:
 
 ## 📈 Contribution Graph
 
-<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhijatPatel&theme=github-dark&hide_border=true"/>
-
-</div>
-
-<br><br>
-
-<div align="center">
-
-<img width="100%" src="https://ghchart.rshah.org/AbhijatPatel" alt="GitHub Contribution Calendar"/>
-
-</div>
 
 <div align="center">
 
