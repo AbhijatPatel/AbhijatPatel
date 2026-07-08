@@ -1,12 +1,14 @@
 <div align="center">
 
+<img src="https://github.com/AbhijatPatel.png" width="170" alt="Abhijat Patel"/>
+
 # 🦸‍♂️ Abhijat Patel
 
 ### Full Stack Developer • AI Engineer • Problem Solver
 
 Building intelligent applications, scalable backend systems, and AI-powered solutions that create real-world impact.
 
-<p align="center">
+</div><div align="center">
 
 <a href="https://github.com/AbhijatPatel">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -140,10 +142,10 @@ class AbhijatPatel:
 <img src="https://img.shields.io/badge/System_Design-212121?style=for-the-badge"/>
 </p>
 
-### Tools
+### 🛠️ Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,intelliJ IDEA, Antigravity"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,netlify,vercel" />
 </p>
 
 ---
