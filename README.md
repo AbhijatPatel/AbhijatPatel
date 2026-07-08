@@ -165,9 +165,11 @@ class AbhijatPatel:
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/409ba5/AbhijatPatel" alt="GitHub Contribution Chart" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhijatPatel&theme=github-dark&hide_border=true"/>
 
 </div>
+
+<br><br>
 
 <div align="center">
 
