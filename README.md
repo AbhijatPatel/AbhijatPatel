@@ -1,7 +1,5 @@
 <div align="center">
 
-# ⚡ ABHIJAT PATEL
-### Software Development Engineer (SDE) • MERN Full Stack Developer • Java Spring Boot & FastAPI
 
 ![Hero](./assets/hero.svg?v=20261008_sde_pointing)
 
