@@ -3,7 +3,7 @@
 <table>
 <tr>
 <td align="center" width="260">
-<img src="./assets/profile.png" alt="Abhijat Patel" width="220"/>
+<img src="/profile.png" alt="Abhijat Patel" width="220"/>
 </td>
 <td align="left">
 
