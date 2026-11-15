@@ -8,13 +8,15 @@
 <td align="left">
 
 # Abhijat Patel
-### Full Stack Developer
+### Software Developer (SDE) | Full Stack Developer
 
-I build full-stack web platforms and AI-powered systems, from payment flows to multi-agent research tools.
+I build scalable, reliable software, from full-stack web platforms and payment flows to AI-powered multi-agent systems.
 
 <img src="https://img.shields.io/badge/Noida,_India-0D1117?style=flat-square&logo=googlemaps&logoColor=2DD4BF" alt="Location"/>
 <img src="https://img.shields.io/badge/B.Tech_IT-2027-0D1117?style=flat-square" alt="B.Tech IT 2027"/>
-<img src="https://img.shields.io/badge/Open_to-Full_Stack_roles-2DD4BF?style=flat-square" alt="Open to Full Stack roles"/>
+<img src="https://img.shields.io/badge/Open_to-SDE-2DD4BF?style=flat-square" alt="Open to SDE roles"/>
+<img src="https://img.shields.io/badge/Open_to-Software_Developer-2DD4BF?style=flat-square" alt="Open to Software Developer roles"/>
+<img src="https://img.shields.io/badge/Open_to-Full_Stack-2DD4BF?style=flat-square" alt="Open to Full Stack roles"/>
 
 </td>
 </tr>
@@ -26,11 +28,11 @@ I build full-stack web platforms and AI-powered systems, from payment flows to m
 
 ## 👨‍💻 About Me
 
-B.Tech Information Technology student at **JSS Academy of Technical Education, Noida** with a strong foundation in Data Structures & Algorithms, OOP, DBMS, and Operating Systems. I build full-stack applications with **Java, Python, FastAPI, and React.js**, and add AI features such as **LLMs, RAG, and NLP** where they fit. I care about secure, reliable REST APIs and database-driven systems.
+B.Tech Information Technology student with a strong foundation in **Data Structures & Algorithms, OOP, DBMS, and Operating Systems**. I have hands-on experience building and deploying full-stack applications using **Java, Python, FastAPI, and React.js**, with practical exposure to AI technologies including **LLMs, Retrieval-Augmented Generation (RAG), NLP, and AI-powered application development**. I develop REST APIs and database-driven systems, with an interest in building intelligent, scalable, and reliable software as a Software Development Engineer.
 
 - 🧩 Solved **200+** coding challenges on LeetCode
 - 🏗️ Built 6 projects, from fintech to AI agents
-- 🎯 Looking for a **Full Stack Developer** role as a fresher
+- 🎯 Looking for **SDE, Software Developer, and Full Stack Developer** roles as a fresher
 
 ---
 
@@ -38,10 +40,12 @@ B.Tech Information Technology student at **JSS Academy of Technical Education, N
 
 <table>
 <tr><td align="right"><b>Languages</b></td><td><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/></td></tr>
-<tr><td align="right"><b>Frontend</b></td><td><img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React.js"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/></td></tr>
-<tr><td align="right"><b>Backend &amp; APIs</b></td><td><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/> <img src="https://img.shields.io/badge/REST_APIs-0A66C2?style=flat-square" alt="REST APIs"/></td></tr>
-<tr><td align="right"><b>Databases</b></td><td><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/></td></tr>
-<tr><td align="right"><b>AI &amp; LLM</b></td><td><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/> <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" alt="LangGraph"/> <img src="https://img.shields.io/badge/RAG-6E40C9?style=flat-square" alt="RAG"/> <img src="https://img.shields.io/badge/LLM_APIs-6E40C9?style=flat-square" alt="LLM APIs"/> <img src="https://img.shields.io/badge/NLP-6E40C9?style=flat-square" alt="NLP"/></td></tr>
+<tr><td align="right"><b>Frontend &amp; UI</b></td><td><img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React.js"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/></td></tr>
+<tr><td align="right"><b>Backend &amp; APIs</b></td><td><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/> <img src="https://img.shields.io/badge/REST_APIs-0A66C2?style=flat-square" alt="REST APIs"/> <img src="https://img.shields.io/badge/Microservices-30363D?style=flat-square" alt="Microservices"/></td></tr>
+<tr><td align="right"><b>Databases</b></td><td><img src="https://img.shields.io/badge/SQL-30363D?style=flat-square" alt="SQL"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/></td></tr>
+<tr><td align="right"><b>AI &amp; LLM</b></td><td><img src="https://img.shields.io/badge/Generative_AI-6E40C9?style=flat-square" alt="Generative AI"/> <img src="https://img.shields.io/badge/Agentic_AI-6E40C9?style=flat-square" alt="Agentic AI"/> <img src="https://img.shields.io/badge/LLM_APIs-6E40C9?style=flat-square" alt="LLM APIs"/> <img src="https://img.shields.io/badge/RAG-6E40C9?style=flat-square" alt="RAG"/> <img src="https://img.shields.io/badge/NLP-6E40C9?style=flat-square" alt="NLP"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/> <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" alt="LangGraph"/></td></tr>
+<tr><td align="right"><b>CS Fundamentals</b></td><td><img src="https://img.shields.io/badge/Data_Structures_and_Algorithms-30363D?style=flat-square" alt="Data Structures & Algorithms"/> <img src="https://img.shields.io/badge/OOP-30363D?style=flat-square" alt="OOP"/> <img src="https://img.shields.io/badge/DBMS-30363D?style=flat-square" alt="DBMS"/> <img src="https://img.shields.io/badge/Operating_Systems-30363D?style=flat-square" alt="Operating Systems"/> <img src="https://img.shields.io/badge/Computer_Networks-30363D?style=flat-square" alt="Computer Networks"/></td></tr>
+<tr><td align="right"><b>Testing &amp; Quality</b></td><td><img src="https://img.shields.io/badge/API_Testing-2DD4BF?style=flat-square" alt="API Testing"/> <img src="https://img.shields.io/badge/Data_Validation-2DD4BF?style=flat-square" alt="Data Validation"/> <img src="https://img.shields.io/badge/Debugging-2DD4BF?style=flat-square" alt="Debugging"/> <img src="https://img.shields.io/badge/Software_Testing-2DD4BF?style=flat-square" alt="Software Testing"/></td></tr>
 <tr><td align="right"><b>Tools &amp; Deployment</b></td><td><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/> <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" alt="Render"/> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/></td></tr>
 </table>
 
@@ -60,24 +64,45 @@ B.Tech Information Technology student at **JSS Academy of Technical Education, N
 
 ---
 
-## 💼 Industry Experience & Education
+## 💼 Internship Experience
 
-- ☁️ **Generative AI & Cloud Computing Intern** — *IBM SkillsBuild (AICTE–BharatCares)* (Jun 2026 – Jul 2026)
-  - Developed a Resume Analyzer capstone using Generative AI and LLMs to solve a real-world hiring use case.
-  - Completed project-based modules on Generative AI, LLMs, AI tools, and cloud computing fundamentals, applying each to practical problem scenarios.
-- 🏢 **Artificial Intelligence Intern** — *Codec Technologies Pvt. Ltd.* (Apr 2026 – May 2026)
-  - Developed Python AI/ML solutions across practical modules covering data processing and model development.
-  - Preprocessed and analyzed datasets to support model training and evaluation.
-  - Debugged and tested code to improve reliability and correctness.
-- 🎓 **Bachelor of Technology (B.Tech) in Information Technology** (2023 – 2027)
-  - *JSS Academy of Technical Education, Noida*
-- 📜 **Certifications & Achievements**:
-  - Generative AI & Cloud Computing Internship — *IBM SkillsBuild, AICTE–BharatCares* (Jun 2026)
-  - Communication Skills — *TCS iON, Tata Consultancy Services* (Jul 2026)
-  - Artificial Intelligence Internship Certificate — *Codec Technologies Pvt. Ltd.*
-  - GenAI-Powered Data Analytics Job Simulation — *Tata (Forage)*
-  - Data Analytics Job Simulation — *Deloitte (Forage)*
-  - Solved 200+ coding challenges on LeetCode
+**☁️ Generative AI & Cloud Computing Intern** — *IBM SkillsBuild (AICTE–BharatCares)* | Jun 2026 – Jul 2026<br/>
+<sub>Generative AI • LLMs • Cloud Computing</sub>
+- Developed a Resume Analyzer capstone using Generative AI and LLMs to solve a real-world hiring use case.
+- Completed project-based modules on Generative AI, LLMs, AI tools, and cloud computing fundamentals, applying each to practical problem scenarios.
+
+**🏢 Artificial Intelligence Intern** — *Codec Technologies Pvt. Ltd.* | Apr 2026 – May 2026<br/>
+<sub>Python • Machine Learning • Data Preprocessing</sub>
+- Developed Python AI/ML solutions across practical modules covering data processing and model development.
+- Preprocessed and analyzed datasets to support model training and evaluation.
+- Debugged and tested code to improve reliability and correctness.
+
+---
+
+## 🎓 Education
+
+| Qualification | Institution | Score | Year |
+| :--- | :--- | :---: | :---: |
+| **B.Tech in Information Technology** | JSS Academy of Technical Education, Noida | CGPA 7.27 / 10 | 2023 – 2027 |
+| **Higher Secondary (Class 12)** | S.S.V Inter College, Ayodhya | 70.8% | 2021 |
+| **Secondary (Class 10)** | S.S.V Inter College, Ayodhya | 75.83% | 2019 |
+
+---
+
+## 📜 Certifications & Achievements
+
+- 🧠 **Problem Solving & Algorithmic Thinking** — Solved 200+ coding challenges on LeetCode.
+- ☁️ **Generative AI & Cloud Computing** — Certification from IBM SkillsBuild (Jun 2026).
+- 🗣️ **Professional Communication** — Communication Skills certification from TCS iON (Jul 2026).
+- 💼 **Virtual Job Simulations** — GenAI-Powered Data Analytics (Tata) and Data Analytics (Deloitte) through Forage.
+
+---
+
+## 🌍 Languages & Soft Skills
+
+**Languages:** Hindi, English
+
+**Soft Skills:** Analytical Thinking • Problem-Solving • Communication • Teamwork • Adaptability • Ownership
 
 ---
 
